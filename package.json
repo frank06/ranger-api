@@ -1,0 +1,16 @@
+{
+  "name": "ranger-api",
+  "version": "0.0.1",
+  "description": "API for Ranger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "frank06",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "0.12.1",
+    "express": "4.12.x",
+    "body-parser": "*"
+  }
+}
